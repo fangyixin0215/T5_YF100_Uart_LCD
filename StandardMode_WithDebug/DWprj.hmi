@@ -1,0 +1,14 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+SCREENDSIZE=800X480
+SPADDRESS=5000
+[IMG]
+0=0启动界面.jpg
+1=1多光谱.jpg
+2=2光动能.jpg
+3=3后像.jpg
+4=4背景.jpg
+5=5设置.jpg
+6=6测试.jpg
